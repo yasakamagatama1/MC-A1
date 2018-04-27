@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f1c841fadbd4abf4a21b8d38d85de237\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b9fd1291ed29b8fe513f2d9d44d7951d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8d6152ce3d6c0175a7714f6d4198f17e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bc5b0b9a6b0e2ed959ca433fde9ad14a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1ab14b98b9c520f0b3cdb8b91d92c675\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7e4a36a88887450ce8af4eb2b2731740\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ad223495d0d1db918f1ab35be6008f21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\19b59329ba79978b39a52c253c7ae425\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8b1a4d991be19b4f25494cb38a0349fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1b941ec14301a6df41a3abbc8dc463ae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6f03328c84dd53d66599b7752e7d0304\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e7fffb82ba5d5bcd298b3ed98215b57f\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b9fd1291ed29b8fe513f2d9d44d7951d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b9fd1291ed29b8fe513f2d9d44d7951d\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.weightconversionapp.Assignment1
+ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:12:19-46
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f1c841fadbd4abf4a21b8d38d85de237\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f1c841fadbd4abf4a21b8d38d85de237\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b9fd1291ed29b8fe513f2d9d44d7951d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\b9fd1291ed29b8fe513f2d9d44d7951d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8d6152ce3d6c0175a7714f6d4198f17e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\8d6152ce3d6c0175a7714f6d4198f17e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bc5b0b9a6b0e2ed959ca433fde9ad14a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\bc5b0b9a6b0e2ed959ca433fde9ad14a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1ab14b98b9c520f0b3cdb8b91d92c675\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1ab14b98b9c520f0b3cdb8b91d92c675\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7e4a36a88887450ce8af4eb2b2731740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\7e4a36a88887450ce8af4eb2b2731740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ad223495d0d1db918f1ab35be6008f21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ad223495d0d1db918f1ab35be6008f21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\19b59329ba79978b39a52c253c7ae425\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\19b59329ba79978b39a52c253c7ae425\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8b1a4d991be19b4f25494cb38a0349fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8b1a4d991be19b4f25494cb38a0349fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1b941ec14301a6df41a3abbc8dc463ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1b941ec14301a6df41a3abbc8dc463ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6f03328c84dd53d66599b7752e7d0304\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6f03328c84dd53d66599b7752e7d0304\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e7fffb82ba5d5bcd298b3ed98215b57f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\YasakaMagatama\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e7fffb82ba5d5bcd298b3ed98215b57f\AndroidManifest.xml:20:5-44
+INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\JCU\CP3406- Mobile Computing\WeightConversionApp\app\src\main\AndroidManifest.xml
